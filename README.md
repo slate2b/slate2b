@@ -18,7 +18,7 @@
 ---
 
 ### :man_technologist: About Me :
-Hi, I'm @slate2b, and I'm a Full Stack Developer from the United States.
+Hi, I'm @slate2b, and I'm a Software Engineering student in the United States.
 
 - 👀 I’m interested in creating programs that make life a little better.
 - 🌱 I’m about 2/3 through a bachelors degree in Computer Science with an emphasis on Software Engineering at Southern New Hampshire University.  I'm currently taking a class on Mobile Architecture and Programming using Java in Android Studio.
