@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <H1>Hello, welcome to my GitHub profile!</H1>
+  <H1>Hello and welcome to my GitHub profile!</H1>
   <br>
 </div>
 
