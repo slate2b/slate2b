@@ -15,7 +15,7 @@
 Hi, I'm @slate2b, and I'm a Software Engineering student in the United States.
 
 - 👀 I’m interested in creating programs that make life better.
-- 🌱 I’m about 2/3 through a bachelors degree in Computer Science with an emphasis on Software Engineering at Southern New Hampshire University.  I'm currently taking a class on Full Stack Development using the MEAN Stack.
+- 🌱 I’m about 3/4 through a bachelors degree in Computer Science with an emphasis on Software Engineering at Southern New Hampshire University.  I'm currently taking a class on Embedded Systems.
 - 💞️ I’m looking to collaborate on anything and everything. 
 - 📫 Feel free to reach out to me on <a href="https://www.linkedin.com/in/thomasvaughn82/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -29,6 +29,7 @@ Hi, I'm @slate2b, and I'm a Software Engineering student in the United States.
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="36" height="36"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="36" height="36"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="36" height="36"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="36" height="36"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="36" height="36"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="36" height="36"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="Nodejs" width="36" height="36"/>&nbsp;
