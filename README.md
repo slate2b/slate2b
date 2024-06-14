@@ -43,5 +43,4 @@ Hi, I'm @slate2b, and I'm a recent Software Engineering graduate in the United S
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"  title="Github" alt="Github" width="36" height="36"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="36" height="36"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharop" alt="Csharp" width="36" height="36"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="36" height="36"/>&nbsp;
 </div>
