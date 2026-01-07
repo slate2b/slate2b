@@ -11,19 +11,19 @@
 
 ---
 
-### :man_technologist: About Me :
+### About Me :      
 Hi, I'm @slate2b, and I'm a recent Software Engineering graduate in the United States.
 
 - 👀 I’m interested in creating programs that make life better.
 - 🌱 I recently earned a bachelors degree in Computer Science with an emphasis on Software Engineering at Southern New Hampshire University.
 - 💞️ I’m looking to collaborate on anything and everything. 
-- 📫 Feel free to reach out to me on <a href="https://www.linkedin.com/in/thomasvaughn82/">
+- 📫 Feel free to reach out to me on...   <a href="https://www.linkedin.com/in/thomasvaughn82/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="36" height="36"/>&nbsp;
@@ -42,5 +42,18 @@ Hi, I'm @slate2b, and I'm a recent Software Engineering graduate in the United S
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Gito" width="36" height="36"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"  title="Github" alt="Github" width="36" height="36"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="36" height="36"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharop" alt="Csharp" width="36" height="36"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="36" height="36"/>&nbsp;
 </div>
+
+### Certifications :
+<img height="120" title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" src="https://github.com/user-attachments/assets/f76c842f-8855-411b-ab04-05f3072268ed" />
+<img height="108" title="Toastmasters Advanced Leader Bronze" alt="Toastmasters Advanced Leader Bronze" src="https://github.com/user-attachments/assets/8da452f4-578e-4a70-aa3b-ccce2963d60e" />
+<img height="108" title="Toastmasters Advanced Communicator Silver" alt="Toastmasters Advanced Communicator Silver" src="https://github.com/user-attachments/assets/4207acc2-582a-407b-8c7d-9068b695a821" />
+<img height="108" title="Foundations of Leadership I" alt="Foundations of Leadership I" src="https://github.com/user-attachments/assets/286cd726-9e8f-44a5-b077-69402ed05c02" />
+<img height="108" title="Foundations of Leadership I" alt="Foundations of Leadership I" src="https://github.com/user-attachments/assets/d71285c9-afa9-4221-a378-5c205bc114c5" />
+
+
+
+
+
+
