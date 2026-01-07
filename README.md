@@ -50,7 +50,7 @@ Hi, I'm @slate2b, and I'm a recent Software Engineering graduate in the United S
 <img height="108" title="Toastmasters Advanced Leader Bronze" alt="Toastmasters Advanced Leader Bronze" src="https://github.com/user-attachments/assets/8da452f4-578e-4a70-aa3b-ccce2963d60e" />
 <img height="108" title="Toastmasters Advanced Communicator Silver" alt="Toastmasters Advanced Communicator Silver" src="https://github.com/user-attachments/assets/4207acc2-582a-407b-8c7d-9068b695a821" />
 <img height="108" title="Foundations of Leadership I" alt="Foundations of Leadership I" src="https://github.com/user-attachments/assets/286cd726-9e8f-44a5-b077-69402ed05c02" />
-<img height="108" title="Foundations of Leadership I" alt="Foundations of Leadership I" src="https://github.com/user-attachments/assets/d71285c9-afa9-4221-a378-5c205bc114c5" />
+<img height="108" title="Foundations of Leadership I" alt="Foundations of Leadership II" src="https://github.com/user-attachments/assets/d71285c9-afa9-4221-a378-5c205bc114c5" />
 
 
 
