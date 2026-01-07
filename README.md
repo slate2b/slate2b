@@ -12,12 +12,12 @@
 ---
 
 ### About Me :      
-Hi, I'm @slate2b, and I'm a recent Software Engineering graduate in the United States.
+Hi, I'm @slate2b, and I'm a Data Scientist and Machine Learning Engineer in the United States.
 
-- 👀 I’m interested in creating programs that make life better.
-- 🌱 I recently earned a bachelors degree in Computer Science with an emphasis on Software Engineering at Southern New Hampshire University.
-- 💞️ I’m looking to collaborate on anything and everything. 
-- 📫 Feel free to reach out to me on...   <a href="https://www.linkedin.com/in/thomasvaughn82/">
+- I’m interested in creating programs that make life better.
+- I have a bachelors degree in Computer Science with an emphasis on Software Engineering from Southern New Hampshire University.
+- I love experimenting with data processing techniques and custom machine learning architectures to solve complex problems. 
+- Feel free to reach out to me on...   <a href="https://www.linkedin.com/in/thomasvaughn82/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
