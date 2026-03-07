@@ -46,6 +46,7 @@ Hi, I'm @slate2b, and I'm a Data Scientist and Machine Learning Engineer in the 
 </div>
 
 ### Certifications :
+<img width="108" height="108" title="AWS Certified Machine Learning Engineer - Associate" alt="AWS Certified Machine Learning Engineer - Associate" src="https://github.com/user-attachments/assets/bbe0f2e7-5641-4710-aada-4c9cd8417609" />
 <img height="120" title="AWS Certified AI Practitioner" alt="AWS Certified AI Practitioner" src="https://github.com/user-attachments/assets/0f2ac31e-ee86-4e58-aff0-074c2255fcc3" />
 <img height="120" title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" src="https://github.com/user-attachments/assets/f76c842f-8855-411b-ab04-05f3072268ed" />
 <img height="108" title="Toastmasters Advanced Leader Bronze" alt="Toastmasters Advanced Leader Bronze" src="https://github.com/user-attachments/assets/8da452f4-578e-4a70-aa3b-ccce2963d60e" />
